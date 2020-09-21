@@ -1,0 +1,126 @@
+._search-padding
+{
+	margin-left: 300px;
+}
+._logo-padding
+{
+	margin-top: 5px;
+	margin-left: 30px;
+	font-color: blue;
+}
+.dropdown-content
+{
+	width: 200px;
+	border-radius: 10px;
+	border:1px solid grey;
+}
+.dropdown-content li
+{
+	text-align: center;
+}
+.dropdown-content div
+{
+	width: 130px;
+	height: 50px;
+}
+.dropdown-content p
+{
+	padding-left: 10px;
+}
+._logout
+{
+	transform: scale(0.8);
+	margin-bottom: 10px;
+}
+
+
+._side-bar
+{
+	margin-top: 50px;
+	margin-right: -70px;
+	width: 250px;
+	border-radius: 10px;
+}
+._side-bar img
+{
+	margin-top: 30px;
+}
+._side-bar h6
+{
+	text-align: center;
+	font-family: arial;
+}
+._side-bar p
+{
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-top: 0px;
+}
+
+._padding-sidebar
+{
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+
+
+
+
+._spek-barang
+{
+	margin-left: -70px;
+	width: 800px;
+	margin-top: 50px;
+	border-radius: 10px;
+}
+._gambar-barang
+{
+	width: 400px;
+	height: 400px;
+	background-color: red;
+	margin: 10px;
+	border-radius: 10px;
+}
+._gambar-barang img
+{
+	padding: 10px;
+}
+._nama-barang
+{
+	width: 350px;
+	height: 150px;
+	margin-left: 430px;
+	margin-top: 50px;
+}
+._spek-barang-harga
+{
+	width: 400px;
+	margin-left: 10px;
+	margin-top: -30px;
+}
+._deskripsi
+{
+	width: 800px;
+	margin-top: 10px;
+	margin-left: -70px;
+	border-radius: 10px;
+	padding: 20px;
+}
+._deskripsi h5
+{
+	padding-left: 10px;
+}
+._deskripsi p span{
+	white-space: pre-line;
+}
+
+._beli-barang
+
+{
+	margin-left: 150px;
+}
+._beli-barang-jumlah
+{
+	width: 50px;
+}

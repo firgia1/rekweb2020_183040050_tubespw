@@ -1,0 +1,39 @@
+._content{
+	width: 1140px;
+	height: 460px;
+	margin-left: -100px;
+	border-radius: 10px;
+	border:2px solid #e0e0e0;
+	box-shadow: 0px 0px 10px black;
+}
+._edit{
+	padding: 15px;
+	width: 330px;
+	height: 330px;
+	background-color: #e0e0e0;
+	border-radius: 10px;
+	border:1px solid black;
+}
+.left
+{
+	margin-left: 35px
+}
+.right
+{
+	margin-right: 35px
+}
+
+._edit:hover
+{
+	transform: scale(1.1);
+	box-shadow: 0px 0px 10px black;
+}
+h3
+{
+	text-shadow: 4px 4px 4px grey,6px 6px 6px yellow;
+}
+._logo-padding
+{
+	margin-top: 5px;
+	margin-left: 30px;
+}

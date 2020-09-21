@@ -1,0 +1,123 @@
+._search-padding
+{
+	margin-left: 300px;
+}
+._logo-padding
+{
+	margin-top: 5px;
+	margin-left: 30px;
+}
+._side-bar
+{
+	margin-top: 50px;
+	margin-left: -70px;
+	width: 250px;
+	border-radius: 10px;
+}
+.dropdown-content
+{
+	width: 200px;
+	border-radius: 10px;
+	border:1px solid grey;
+}
+.dropdown-content li
+{
+	text-align: center;
+}
+.dropdown-content div
+{
+	width: 130px;
+	height: 50px;
+}
+.dropdown-content p
+{
+	padding-left: 10px;
+}
+._logout
+{
+	transform: scale(0.8);
+	margin-bottom: 10px;
+}
+
+._content
+{
+	margin-right:  -70px;
+	margin-top: 50px;
+	width: 782px;
+	border-radius: 10px;
+	border:1px solid #e0e0e0;
+}
+
+._content-data
+{
+	margin: 10px 10px;
+	width: 240px;
+	border:1px solid #e0e0e0;
+	border-radius: 10px;
+}
+._content-data:hover
+{
+	transform: scale(1.02);
+	box-shadow: 0px 0px 10px black;
+}
+.center
+{
+	margin-top: 10px;
+}
+._nama-barang
+{
+	padding: 0px 10px;
+	text-align: left;
+	height: 80px;
+}
+._content-kondisi
+{
+	padding-right: 10px;
+}
+._content-harga
+{
+	padding-left: 10px;
+}
+._padding-sidebar
+{
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+._profile
+{
+	margin: 10px 10px;
+}
+._username
+{
+	padding: 10px 10px;
+	text-align: left;
+	height: 80px;
+}
+._saldo
+{
+	padding-left: 10px;
+	margin-top: -15px;
+}
+hr
+{
+	color: grey;
+}
+._harga label
+{
+	color: black;
+	font-size: 20px;
+}
+._harga 
+{
+	width: 180px;
+}
+._checkbox
+{
+	border: 1px solid black;
+}
+._lokasi-barang
+{
+	padding-left: 10px;
+	padding-bottom: 10px;
+}

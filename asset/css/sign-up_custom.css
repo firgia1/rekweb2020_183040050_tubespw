@@ -1,0 +1,19 @@
+._content-sign-up
+{
+	width: 700px;
+	border-radius: 10px;
+	border: 2px solid grey;
+	margin: 50px;
+	box-shadow: 10px 10px 10px black;
+	margin-left: 140px;
+}
+._content
+{
+	margin-top: 10px;
+	padding: 40px;
+}
+
+._submit
+{
+	padding-top: 70px;
+}

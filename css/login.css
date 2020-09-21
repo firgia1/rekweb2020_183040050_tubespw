@@ -1,0 +1,55 @@
+body{
+	background-color: #e8f5e9 ;
+}
+
+.layar {
+  padding-top: 130px;
+  width: 100%;
+  margin: auto;
+}
+.content{
+	height: 400px;
+	margin: auto;
+	border: 5px solid #a5d6a7;
+	background-color: white;
+	width: 540px;
+  	border-radius: 20px;
+  	box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.5);
+}
+.input{
+	text-align-last: center;
+	padding-top: 30px;
+}
+.login{
+	font-family: JosefinSans-Bold;
+	font-size: 30px;
+	color: #fff;
+	line-height: 0.7;
+	text-align: center;
+	display: block;
+	position: absolute;
+	width: 100%;
+	top: 0;
+	left: 0;
+	background-color: #57b846;
+	padding-top: 50px;
+	padding-bottom: 39px;
+}
+
+button{
+	width: 500px;
+	margin-top: 30px;
+	margin-bottom: 10px; 
+}
+.salah{
+	font-family: italic;
+	color: red;
+}
+p{
+	text-align: center;
+	padding-top: 30px;
+}
+.batas{
+	font-size: 8px;
+	color: #b0bec5 ;
+}

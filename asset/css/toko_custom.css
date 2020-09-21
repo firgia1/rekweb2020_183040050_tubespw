@@ -1,0 +1,25 @@
+._content
+{
+	border:1px solid grey;
+	margin-bottom: 50px;
+}
+.btn
+{
+	border-radius: 5px;
+}
+._search-padding
+{
+	margin-left: 300px;
+}
+._logo-padding
+{
+	margin-top: 5px;
+	margin-left: 30px;
+	font-color: blue;
+}
+._tambah-btn
+{
+	transform: scale(0.7);
+	margin-top: 10px;
+	margin-left: -30px;
+}

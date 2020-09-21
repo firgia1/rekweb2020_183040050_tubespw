@@ -1,0 +1,27 @@
+._struk-pembelian
+{
+	border:1px solid #e0e0e0;
+	border-radius: 10px;
+	padding: 20px;
+	background-image: url("../../asset/img/logo_web/logo_pembayaran.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 500px;
+}
+._struk-pembelian-content{
+	padding: 1px;
+}
+._struk-pembelian-content div
+{
+	margin-top: -50px;
+}
+._toko{
+	width: 300px;
+	height: 100px;
+	margin-left: 140px;
+	margin-top: 20px;
+	
+}
+._toko li{
+	margin-left: 1000px;
+}

@@ -1,0 +1,16 @@
+h1{
+	text-align: center;
+}
+input,textarea{
+	width: 500px;
+}
+.container{
+	border-radius: ;
+	padding-left: 30px;
+	padding-bottom: 30px;
+	width: 600px;
+	border: 1px solid black;
+}
+.group{
+	margin-left: -20px;
+}

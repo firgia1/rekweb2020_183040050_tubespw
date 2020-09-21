@@ -1,0 +1,69 @@
+body{
+	background-color: #ccf2cd;
+}
+.kotak{
+	background-color: #ecf4ed;
+	width: 380px;
+	height: 200px;
+}
+.left{
+	margin-top: 5px;
+	margin-left: 20px;
+	border: 3px solid #ecf4ed;
+	border-radius: 10px 10px 10px 10px;
+}
+.layar{
+	border-color: #ccf2cd;
+	margin-left: 40px;
+	width: 810px;
+}
+
+.gambar{
+	height: 185px;
+	border: 3px solid #ced6d0;
+	background-color: white;
+	border-radius: 8px 10px 10px 8px;  
+}
+.merk{
+	text-align: center;
+	padding: 10px;
+	margin-top: 40px;
+	 
+}
+.harga{
+	padding: 10px;
+	margin-top: 2px; 
+}
+
+.sidebar{
+	float: right;
+	width: 300px;
+	padding: 30px;
+}
+.containers{
+
+	border-radius: 8px 10px 10px 8px;  
+	width: 65px;
+	height: 25px;
+	background-color: blue;
+	margin: auto;
+	text-align-last: center;
+}
+.row{
+	margin: 10px;
+}
+
+img{
+	width: 96px;
+	margin-left: -14px;
+	padding: 10px;
+	border-radius: 10px 10px 10px 10px;
+}
+.lost{
+	text-align: center;
+    margin-top: 70px;
+}
+.aktif{
+	font-weight: bold;
+     color: green;
+}
